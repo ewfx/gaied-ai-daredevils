@@ -1,0 +1,22 @@
+[
+    {
+        "email_text": "Re : CANTOR FITZGERALD LP USD 425MM MAR22 / REVOLVER / CANTOR FIT00037",
+        "request_type": "Money Movement",
+        "sub_request_type": "Money Movement - Outbound"
+    },
+    {
+        "email_text": "BORROWER:",
+        "request_type": "Money Movement",
+        "sub_request_type": "Money Movement - Inbound"
+    },
+    {
+        "email_text": "---------- Forwarded message ---------",
+        "request_type": "Money Movement",
+        "sub_request_type": "Money Movement - Outbound"
+    },
+    {
+        "email_text": "Re : Citibank NA USD 425MM MAR22 / REVOLVER / CANTOR FIT00037",
+        "request_type": "Money Movement",
+        "sub_request_type": "Money Movement - Outbound"
+    }
+]

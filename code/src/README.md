@@ -6,4 +6,6 @@ Please use the attached files as the datasets to be used for the prediction mode
 
 The files are uploaded to the location: https://github.com/ewfx/gaied-ai-daredevils/tree/main/artifacts/arch
 
+Output JSON containing primary request and secondary request types has been uploaded to: https://github.com/ewfx/gaied-ai-daredevils/tree/main/artifacts/demo
 
+Output Json Name: Email_Classification_Results.json

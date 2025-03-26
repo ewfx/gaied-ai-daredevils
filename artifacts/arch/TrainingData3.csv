@@ -1,0 +1,67 @@
+Email,PrimaryAsk,SecondaryAsk
+"""I'm writing this mail to let you know that I want to foreclose my home loan next month. Please help me with the necessary paperworks."" ",Account Related,Home Loan Account Closure
+"""Could you please let me know what is the current status of my order?""",Order Related,Unknown
+"""I want to know current status of my order. Could you please help?""",Order Related,Unknown
+"""My account is locked and I am not able to see my transaction statements. Could you please help me regarding transaction statements?""",Transaction Related,Helpdesc
+"""My account is locked and I am not able to see any details regarding my account. Could you please help me unlock my account?""",Account Related,Account Unlock
+"""I am writing this mail to inform you that your loan amount is disbursed. Please check the account statement.""",Account Related,Loan Account
+"""Your loan amount is disbursed. Could you please check your latest account statement?""",Account Related,Loan Account
+"""I need your help regarding one money transfer request from one of our clients. He wants to the amount to be transferred from his Bank of America account to Wells Fargo account.""",Money Movement,Money Movement - Inbound
+"""Could you please help me regarding one of our client's money transfer request from his Bank of America account to Wells Fargo account?""",Money Movement,Money Movement - Inbound
+"""I need your help for necessary paperworks to foreclose my home loan next month."" ",Account Related,Home Loan Account Closure
+"""I need your help to see my transaction statements since my account is locked and I am not able to check them myself""",Transaction Related,Helpdesc
+"""I need your help to unlock my account, as I am not able to access it since yesterday""",Account Related,Account Unlock
+"""My money transfer request from my Wells Fargo account to Bank of America account has been rejected. Could you please let me know the reason?""",Money Movement,Money Movement - Outbound
+"""I need your help to understand the rejection reason of my money transfer request from my Wells Fargo account to Bank of America account.""",Money Movement,Money Movement - Outbound
+"""Please note that the money transfer request raised by Mr. X from his JP Morgan Chase account to Wells Fargo account has been approved and processed.""",Money Movement,Money Movement - Inbound
+"""I am writing this mail to inform your that Mr. X's money transfer request from his JP Morgan Chase account to Wells Fargo account has been approved. Same has been processed.""",Money Movement,Money Movement - Inbound
+"""Please note that the money transfer request raised by Mr. Y from his Wells Fargo account to JP Morgan Chase account has been approved and processed.""",Money Movement,Money Movement - Outbound
+"""I am writing this mail to inform your that Mr. X's money transfer request from his Wells Fargo account to JP Morgan Chase account has been approved. Same has been processed.""",Money Movement,Money Movement - Outbound
+"""Could you please let me know why my loan request is not approved yet? Please let me know if any additional documents required.""",Account Related,Home Loan Account Creation
+"""I think we need to get into a call to understand why my home loan request is not yet approved. Are any additional documents required?""",Account Related,Home Loan Account Creation
+"""Thank you for your prompt action regarding urgent approval of my personal loan request.""",Account Related,Feedback
+"""I want to take this moment to appreciate your sincere efforts regarding opening my personal loan account.""",Account Related,Feedback
+"""Congratulations! Your loan request has been approved. Please visit your branch for further details.""",Account Related,Loan Account
+"""I am writing this mail to let you know that your loan request has been approved. As a next step, you need to visit your branch for further details.""",Account Related,Loan Account
+"""I got few suspicious mails depicting that someone is trying to hack into my savings account. Please help me with the necessary actions.""",Account Related,Phishing Attempt
+"""I would request you to intervene with the necessary actions, since from yesterday I am receiving some suspicious mails attempting unauthorized transactions from my account.""",Account Related,Phishing Attempt
+"""We have got some transaction requests from your account. Please confirm if it was you, else these requests would be rejected.""",Account Related,Transaction Approval
+"""Please confirm whether you have raised few transaction requests within last few hours.Would request you to confirm whether it was you since the amounts are big enough.""",Account Related,Transaction Approval
+"""We have identified few suspicious activities in your account. Kindly change your credentials and always login into your internet banking account using protected network.""",Account Related,Phishing Attempt
+"""We request you to change your credentials for your internet banking account at the earliest since we can identify few suspicious activities in few of our customers' accounts.""",Account Related,Phishing Attempt
+"""This is to notify that the money transfer request raised by Mr. A from his SBI account to Wells Fargo account has been approved and same has been processed.""",Money Movement,Money Movement - Inbound
+"""This is to notify that the money transfer request raised by Mrs. E from her Wells Fargo account to Axis account has been rejected and rejection reasons shared with customer.""",Money Movement,Money Movement - Outbound
+"""Please note that the money transfer request raised by Mrs. K from her Canara Bank account to Wells Fargo account has been rejected. Customer requested to go through the rejection reasons.""",Money Movement,Money Movement - Inbound
+"""Mrs. Y raised one money transfer request from her Wells Fargo account to SBI account. I am glad to inform that the request has been approved and same has been processed.""",Money Movement,Money Movement - Outbound
+"""This is to inform that loan has been approved for Mr. M and the requested amount has been disbursed. Thank you!""",Account Related,Loan Account
+"""It is to nofity that the money transfer request raised by Mrs. L from her Wells Fargo account to Canara Bank account has been rejected. Customer has been intimated separately to go through the rejection reasons.""",Money Movement,Money Movement - Outbound
+"""We need to notify Mr. P that the money transfer request which he raised from his Wells Fargo account to HSBC  account has been rejected due to some compliance issues.""",Money Movement,Money Movement - Outbound
+"""We will remit the agreed amount on the effective date. Please note that i) if the Borrower has not in fact made such payment; or ii) any payment you receive is in excess of what was paid by the Borrower or (iii) we notify you that the payment was erroneously made, then pursuant to the provisions of the credit facility, you agree to return such payment.
+
+For: MNP NATIONAL ASSOCIATION
+To : XYZ, NA 
+
+Account No: XXXXXXXXXX0720
+Reference: CANTOR FITZGERALD LP USD 425MM MAR22, SOFR (US) Term Principal Payment (CANTOR FIT00037)""",Money Movement,Money Movement - Outbound
+"""Effective 04-Feb-2025, the Lender Shares of facility TERM LOAN A-2 have been adjusted. Your share of the commitment was the effective amount. It has been Increased to updated amount.
+
+For: XYZ Bank 
+Reference: D-1 MIC LLC $171.3MM 11-4-2022,
+If you have any questions, please call the undersigned.
+***
+******** COMMENT **
+PLEASE FUND YOUR SHARE OF $24,714.36
+Bank Name: Citizens Bank NA
+ABA # 01
+Account #: 0026693011
+Account Name: LIQ CLO O
+Ref: Atlantic LLC""",Money Movement,Money Movement - Inbound
+"""The agreed amount has been remitted on the specified date. Please make sure that the borrower has not maid such payment, and any payment you receive is in excess of what was paid by the borrower""",Money Movement,Money Movement - Outbound
+"""Remitance of the agreed amount is completed from our end. In this case, the borrower should not make any such payments.""",Money Movement,Money Movement - Outbound
+"""Effective 10-Nov-2023, 20,000,000.00.
+R FITZGERALD LP has elected to repay under the SOFR (US) Term option, a total of USD 20,000,000.00
+
+Previous Global principal balance: USD 45,000,000.00
+New Global principal balance: USD 25,000,000.00""",Money Movement,Money Movement - Outbound
+"""Your share of commitment has been increased to updated amount. Please fund your share of $12000.76""",Money Movement,Money Movement - Inbound
+"""We have increased your share of commitment to updated amount. Would request you to fund your share of $81312.12""",Money Movement,Money Movement - Inbound
